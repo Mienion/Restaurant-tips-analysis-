@@ -6,4 +6,4 @@ The dataset consists of information from 244 restaurant bills, collected in the 
 
 It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 # **👣 The First Steps**
-
+First, let's import the needed libraries: Pandas & Matplotlib.
